@@ -1,0 +1,56 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "82682096d2787bae",
+            "max_int": "ee1c7f24482fd59a",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Scary Pennywise",
+            "photo": "https://i.postimg.cc/7Z7bC0dw/5185351bbca06fb0fca2d300f3ff174b.jpg",
+            "voice": "https://ringy9.github.io/Scary-Pennywise/voicea.mp3",
+            "video": "https://ringy9.github.io/Scary-Pennywise/videob.mp4",
+            "stories": [
+       "https://i.postimg.cc/yxdkW54b/0af4ab692f21288c262678835c4a305b.jpg",
+"https://i.postimg.cc/HnhjM2Ts/0c89e83ddfdf9dd6ff9b8bd6b0103e20.jpg",
+"https://i.postimg.cc/8kK7x1LQ/2a1ec4c2b49aa10e8f265a0267d019e3.jpg",
+"https://i.postimg.cc/05BNcVq9/4e5cd357df117683a8a4ae0c94118b35.jpg",
+"https://i.postimg.cc/7Z7bC0dw/5185351bbca06fb0fca2d300f3ff174b.jpg",
+"https://i.postimg.cc/WbddvQ7D/6e7c12f4da850dd4a63a0857f340ce42.jpg",
+"https://i.postimg.cc/26H5pwbF/813c7e2d0b1382e2068680aac30525b2.jpg",
+"https://i.postimg.cc/k5mGWDP8/9d778a7820e4724a6b1df5cd6c5b7211.jpg",
+"https://i.postimg.cc/tC8YC2rB/a068acb4cc632a9b1fa2df2075dffe37.jpg",
+"https://i.postimg.cc/j2md2ShD/b7e5f69e80e69a11deb827e09802f79a.jpg",
+"https://i.postimg.cc/yNydjB7G/d2a24dba109927fb3be65669ab065d17.jpg",
+"https://i.postimg.cc/509tkG02/dbe2fa41cb1b2b92371a0d46dc056204.jpg",
+"https://i.postimg.cc/BbXnJK2W/dc3fe7b9a6dc7b8a442de704b542b40f.jpg",
+"https://i.postimg.cc/654pSC9n/e34dbac011832d687f493496ac8339be.jpg3"
+            ],
+            "wallpapers": [
+             "https://i.postimg.cc/yxdkW54b/0af4ab692f21288c262678835c4a305b.jpg",
+"https://i.postimg.cc/HnhjM2Ts/0c89e83ddfdf9dd6ff9b8bd6b0103e20.jpg",
+"https://i.postimg.cc/8kK7x1LQ/2a1ec4c2b49aa10e8f265a0267d019e3.jpg",
+"https://i.postimg.cc/05BNcVq9/4e5cd357df117683a8a4ae0c94118b35.jpg",
+"https://i.postimg.cc/7Z7bC0dw/5185351bbca06fb0fca2d300f3ff174b.jpg",
+"https://i.postimg.cc/WbddvQ7D/6e7c12f4da850dd4a63a0857f340ce42.jpg",
+"https://i.postimg.cc/26H5pwbF/813c7e2d0b1382e2068680aac30525b2.jpg",
+"https://i.postimg.cc/k5mGWDP8/9d778a7820e4724a6b1df5cd6c5b7211.jpg",
+"https://i.postimg.cc/tC8YC2rB/a068acb4cc632a9b1fa2df2075dffe37.jpg",
+"https://i.postimg.cc/j2md2ShD/b7e5f69e80e69a11deb827e09802f79a.jpg",
+"https://i.postimg.cc/yNydjB7G/d2a24dba109927fb3be65669ab065d17.jpg",
+"https://i.postimg.cc/509tkG02/dbe2fa41cb1b2b92371a0d46dc056204.jpg",
+"https://i.postimg.cc/BbXnJK2W/dc3fe7b9a6dc7b8a442de704b542b40f.jpg",
+"https://i.postimg.cc/654pSC9n/e34dbac011832d687f493496ac8339be.jpg3"
+            ]
+          
+        }
+    ]
+}
