@@ -2,7 +2,7 @@
     "data" : [
         {
           
-            "network": "max",
+            "network": "is",
             
             "max_ban": "82682096d2787bae",
             "max_int": "ee1c7f24482fd59a",
